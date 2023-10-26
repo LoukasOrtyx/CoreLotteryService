@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreLotteryService.Library", "CoreLotteryService.Library\CoreLotteryService.Library.csproj", "{73A5CD43-D42F-494E-A39E-FD073325FC66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegaSenaTesteService", "MegaSenaTesteService\MegaSenaTesteService.csproj", "{5ACF6A98-02C3-4289-ABB3-8916A9869294}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73A5CD43-D42F-494E-A39E-FD073325FC66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A5CD43-D42F-494E-A39E-FD073325FC66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A5CD43-D42F-494E-A39E-FD073325FC66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A5CD43-D42F-494E-A39E-FD073325FC66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ACF6A98-02C3-4289-ABB3-8916A9869294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ACF6A98-02C3-4289-ABB3-8916A9869294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ACF6A98-02C3-4289-ABB3-8916A9869294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACF6A98-02C3-4289-ABB3-8916A9869294}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
